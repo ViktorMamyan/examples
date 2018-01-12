@@ -1,0 +1,5 @@
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\wcf Win login\bin\Debug\wcf Win login.exe.config
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\wcf Win login\bin\Debug\wcf Win login.exe
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\wcf Win login\bin\Debug\wcf Win login.pdb
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\wcf Win login\obj\Debug\wcf Win login.exe
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\wcf Win login\obj\Debug\wcf Win login.pdb
