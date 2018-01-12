@@ -4,3 +4,9 @@ C:\Users\Vitya\Documents\Visual Studio 2012\Projects\WCF Server Win Login\bin\De
 C:\Users\Vitya\Documents\Visual Studio 2012\Projects\WCF Server Win Login\obj\Debug\wcfWinlogin.exe
 C:\Users\Vitya\Documents\Visual Studio 2012\Projects\WCF Server Win Login\obj\Debug\wcfWinlogin.pdb
 C:\Users\Vitya\Documents\Visual Studio 2012\Projects\WCF Server Win Login\obj\Debug\WCF Custom Auth Server.csprojResolveAssemblyReference.cache
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\WCF Server UserPass Login\bin\Debug\wcfWinlogin.exe.config
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\WCF Server UserPass Login\bin\Debug\wcfWinlogin.exe
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\WCF Server UserPass Login\bin\Debug\wcfWinlogin.pdb
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\WCF Server UserPass Login\obj\Debug\wcfWinlogin.exe
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\WCF Server UserPass Login\obj\Debug\wcfWinlogin.pdb
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\WCF Server UserPass Login\obj\Debug\WCF Custom Auth Server.csprojResolveAssemblyReference.cache

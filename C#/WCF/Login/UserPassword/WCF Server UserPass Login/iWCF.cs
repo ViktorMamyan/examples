@@ -4,6 +4,9 @@ using System.Linq;
 using System.Runtime.Serialization;
 using System.ServiceModel;
 using System.Text;
+using System.IdentityModel.Configuration;
+using System.IdentityModel.Selectors;
+using System.IdentityModel.Tokens;
 
 namespace WCFApp
 {
@@ -32,6 +35,24 @@ namespace WCFApp
 
     public class WCFClass : iWCF
     {
+
+        public class CheckPassword : UserNamePasswordValidator
+        {
+            // MUST NOT be used in a production environment because it is NOT secure.
+            public override void Validate(string userName, string password)
+            {
+                if (null == userName || null == password)
+                {
+                    throw new ArgumentNullException();
+                }
+
+                if (!(userName == "u" && password == "p"))
+                {
+                    throw new SecurityTokenException("Unknown Username or Password");
+                }
+            }
+        }
+
         public void iInfo()
         {
             Console.WriteLine("OK");

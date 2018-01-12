@@ -16,8 +16,8 @@ namespace WCFApp
 
             using (var host = new ServiceHost(typeof(WCFClass)))
             {
-                host.Credentials.UserNameAuthentication.UserNamePasswordValidationMode = System.ServiceModel.Security.UserNamePasswordValidationMode.Custom;
-                host.Credentials.UserNameAuthentication.CustomUserNamePasswordValidator = new CustomValidator.CheckPassword(); 
+                //host.Credentials.UserNameAuthentication.UserNamePasswordValidationMode = System.ServiceModel.Security.UserNamePasswordValidationMode.Custom;
+                //host.Credentials.UserNameAuthentication.CustomUserNamePasswordValidator = new WCFClass.CheckPassword(); 
 
                 host.Open();
                 host.Description.Endpoints.ToList().ForEach(ep => Console.WriteLine(ep.Address));

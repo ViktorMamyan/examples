@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<SavedWcfConfigurationInformation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="9.1" CheckSum="EKzRVvamWotSu0GaX58wGXu548A=">
+<SavedWcfConfigurationInformation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="9.1" CheckSum="MSrzWCkiXrgzmSW1Qs8bcMp7HAQ=">
   <bindingConfigurations>
     <bindingConfiguration bindingType="customBinding" name="NetHttpsBinding_iWCF">
       <properties>
@@ -157,10 +157,10 @@
     </bindingConfiguration>
   </bindingConfigurations>
   <endpoints>
-    <endpoint name="NetHttpsBinding_iWCF" contract="wcfService.iWCF" bindingType="customBinding" address="https://localhost:9595/wcf/" bindingConfiguration="NetHttpsBinding_iWCF">
+    <endpoint name="NetHttpsBinding_iWCF" contract="wcfService.iWCF" bindingType="customBinding" address="https://localhost:9595/wcf/username" bindingConfiguration="NetHttpsBinding_iWCF">
       <properties>
         <property path="/address" isComplexType="false" isExplicitlyDefined="true" clrType="System.Uri, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          <serializedValue>https://localhost:9595/wcf/</serializedValue>
+          <serializedValue>https://localhost:9595/wcf/username</serializedValue>
         </property>
         <property path="/behaviorConfiguration" isComplexType="false" isExplicitlyDefined="false" clrType="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
           <serializedValue />

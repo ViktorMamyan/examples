@@ -20,8 +20,8 @@ namespace WCF_Win_Auth_Login_Client
             using (var client = new wcfService.iWCFClient())
             { 
                 
-                //client.ClientCredentials.UserName.UserName = "u";
-                //client.ClientCredentials.UserName.Password = "p";
+                client.ClientCredentials.UserName.UserName = "u1";
+                client.ClientCredentials.UserName.Password = "p";
 
                 client.Open();
 

@@ -117,9 +117,9 @@
   </wsdl:binding>
   <wsdl:service name="WCFClass">
     <wsdl:port name="NetHttpsBinding_iWCF" binding="tns:NetHttpsBinding_iWCF">
-      <soap12:address location="https://localhost:9595/wcf/" />
+      <soap12:address location="https://localhost:9595/wcf/username" />
       <wsa10:EndpointReference>
-        <wsa10:Address>https://localhost:9595/wcf/</wsa10:Address>
+        <wsa10:Address>https://localhost:9595/wcf/username</wsa10:Address>
         <Identity xmlns="http://schemas.xmlsoap.org/ws/2006/02/addressingidentity">
           <Dns>localhost</Dns>
         </Identity>
