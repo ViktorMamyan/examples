@@ -1,0 +1,6 @@
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\WCF Client Win Login\bin\Debug\WCF Win Auth Login Client.exe.config
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\WCF Client Win Login\bin\Debug\WCF Win Auth Login Client.exe
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\WCF Client Win Login\bin\Debug\WCF Win Auth Login Client.pdb
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\WCF Client Win Login\obj\Debug\WCF Win Auth Login Client.exe
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\WCF Client Win Login\obj\Debug\WCF Win Auth Login Client.pdb
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\WCF Client Win Login\obj\Debug\WCF Custom Auth Client.csprojResolveAssemblyReference.cache

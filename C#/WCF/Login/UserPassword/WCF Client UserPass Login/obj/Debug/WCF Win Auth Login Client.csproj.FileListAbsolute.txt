@@ -1,0 +1,14 @@
+C:\Users\Vitya\AppData\Local\Temporary Projects\WCF Win Auth Login Client\bin\Debug\WCF Win Auth Login Client.exe.config
+C:\Users\Vitya\AppData\Local\Temporary Projects\WCF Win Auth Login Client\bin\Debug\WCF Win Auth Login Client.exe
+C:\Users\Vitya\AppData\Local\Temporary Projects\WCF Win Auth Login Client\bin\Debug\WCF Win Auth Login Client.pdb
+C:\Users\Vitya\AppData\Local\Temporary Projects\WCF Win Auth Login Client\obj\Debug\WCF Win Auth Login Client.exe
+C:\Users\Vitya\AppData\Local\Temporary Projects\WCF Win Auth Login Client\obj\Debug\WCF Win Auth Login Client.pdb
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\WCF Win Auth Login Client\bin\Debug\WCF Win Auth Login Client.exe.config
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\WCF Win Auth Login Client\obj\Debug\WCF Win Auth Login Client.exe
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\WCF Win Auth Login Client\obj\Debug\WCF Win Auth Login Client.pdb
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\WCF Win Auth Login Client\bin\Debug\WCF Win Auth Login Client.exe
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\WCF Win Auth Login Client\bin\Debug\WCF Win Auth Login Client.pdb
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\WCF Win Auth Login Client\obj\Debug\WCF Win Auth Login Client.csprojResolveAssemblyReference.cache
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\WCF Client Win Login\bin\Debug\WCF Win Auth Login Client.exe.config
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\WCF Client Win Login\obj\Debug\WCF Win Auth Login Client.exe
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\WCF Client Win Login\obj\Debug\WCF Win Auth Login Client.pdb
