@@ -1,0 +1,11 @@
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\Client\bin\Debug\Client.exe.config
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\Client\bin\Debug\Client.exe
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\Client\bin\Debug\Client.pdb
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\Client\obj\Debug\Client.exe
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\Client\obj\Debug\Client.pdb
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\ClientEndpoints\bin\Debug\Client.exe.config
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\ClientEndpoints\bin\Debug\Client.exe
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\ClientEndpoints\bin\Debug\Client.pdb
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\ClientEndpoints\obj\Debug\Client.exe
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\ClientEndpoints\obj\Debug\Client.pdb
