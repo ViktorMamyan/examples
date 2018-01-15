@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Cars>
+  <Car ID="1" Vendor="Vendor" Model="Model" Year="2018" />
+  <Car ID="5" Vendor="Vendor" Model="Model" Year="2018" />
+</Cars>

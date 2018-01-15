@@ -1,0 +1,19 @@
+C:\Users\Vitya\AppData\Local\Temporary Projects\Server\bin\Debug\Server.exe.config
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\ServerEndpoints\bin\Debug\Server.exe.config
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\ServerEndpoints\bin\Debug\Server.exe
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\ServerEndpoints\bin\Debug\Server.pdb
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\ServerEndpoints\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\ServerEndpoints\obj\Debug\Server.exe
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\ServerEndpoints\obj\Debug\Server.pdb
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\ServerMultipleServiceContract\bin\Debug\Server.exe.config
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\ServerMultipleServiceContract\bin\Debug\Server.exe
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\ServerMultipleServiceContract\bin\Debug\Server.pdb
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\ServerMultipleServiceContract\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\ServerMultipleServiceContract\obj\Debug\Server.exe
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\ServerMultipleServiceContract\obj\Debug\Server.pdb
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\Server\bin\Debug\Server.exe.config
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\Server\bin\Debug\Server.exe
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\Server\bin\Debug\Server.pdb
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\Server\obj\Debug\Server.exe
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\Server\obj\Debug\Server.pdb
