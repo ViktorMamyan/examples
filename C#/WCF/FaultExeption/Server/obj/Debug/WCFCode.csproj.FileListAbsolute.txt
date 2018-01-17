@@ -1,0 +1,5 @@
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\Server\bin\Debug\WCFCode.exe.config
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\Server\bin\Debug\WCFCode.exe
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\Server\bin\Debug\WCFCode.pdb
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\Server\obj\Debug\WCFCode.exe
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\Server\obj\Debug\WCFCode.pdb

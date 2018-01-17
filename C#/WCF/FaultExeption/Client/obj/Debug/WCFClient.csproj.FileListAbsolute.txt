@@ -1,0 +1,11 @@
+C:\Users\Vitya\AppData\Local\Temporary Projects\WCFClient\bin\Debug\WCFClient.exe.config
+C:\Users\Vitya\AppData\Local\Temporary Projects\WCFClient\bin\Debug\WCFClient.exe
+C:\Users\Vitya\AppData\Local\Temporary Projects\WCFClient\bin\Debug\WCFClient.pdb
+C:\Users\Vitya\AppData\Local\Temporary Projects\WCFClient\obj\Debug\WCFClient.csprojResolveAssemblyReference.cache
+C:\Users\Vitya\AppData\Local\Temporary Projects\WCFClient\obj\Debug\WCFClient.exe
+C:\Users\Vitya\AppData\Local\Temporary Projects\WCFClient\obj\Debug\WCFClient.pdb
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\Client\bin\Debug\WCFClient.exe.config
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\Client\obj\Debug\WCFClient.exe
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\Client\obj\Debug\WCFClient.pdb
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\Client\bin\Debug\WCFClient.exe
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\Client\bin\Debug\WCFClient.pdb
