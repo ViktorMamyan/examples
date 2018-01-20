@@ -1,0 +1,6 @@
+C:\Users\Vitya\AppData\Local\Temporary Projects\SQL\bin\Debug\SQL.exe.config
+C:\Users\Vitya\AppData\Local\Temporary Projects\SQL\bin\Debug\SQL.exe
+C:\Users\Vitya\AppData\Local\Temporary Projects\SQL\bin\Debug\SQL.pdb
+C:\Users\Vitya\AppData\Local\Temporary Projects\SQL\obj\Debug\SQL.csprojResolveAssemblyReference.cache
+C:\Users\Vitya\AppData\Local\Temporary Projects\SQL\obj\Debug\SQL.exe
+C:\Users\Vitya\AppData\Local\Temporary Projects\SQL\obj\Debug\SQL.pdb
