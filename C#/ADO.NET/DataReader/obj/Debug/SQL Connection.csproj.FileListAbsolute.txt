@@ -1,0 +1,6 @@
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\SQL Connection\bin\Debug\SQL Connection.exe.config
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\SQL Connection\bin\Debug\SQL Connection.exe
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\SQL Connection\bin\Debug\SQL Connection.pdb
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\SQL Connection\obj\Debug\SQL Connection.exe
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\SQL Connection\obj\Debug\SQL Connection.pdb
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\SQL Connection\obj\Debug\SQL Connection.csprojResolveAssemblyReference.cache
