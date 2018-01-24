@@ -1,0 +1,12 @@
+C:\Users\Vitya\AppData\Local\Temporary Projects\Lambda\bin\Debug\Lambda.exe.config
+C:\Users\Vitya\AppData\Local\Temporary Projects\Lambda\bin\Debug\Lambda.exe
+C:\Users\Vitya\AppData\Local\Temporary Projects\Lambda\bin\Debug\Lambda.pdb
+C:\Users\Vitya\AppData\Local\Temporary Projects\Lambda\obj\Debug\Lambda.csprojResolveAssemblyReference.cache
+C:\Users\Vitya\AppData\Local\Temporary Projects\Lambda\obj\Debug\Lambda.exe
+C:\Users\Vitya\AppData\Local\Temporary Projects\Lambda\obj\Debug\Lambda.pdb
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\Lambda\bin\Debug\Lambda.exe.config
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\Lambda\obj\Debug\Lambda.exe
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\Lambda\obj\Debug\Lambda.pdb
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\Lambda\bin\Debug\Lambda.exe
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\Lambda\bin\Debug\Lambda.pdb
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\Lambda\obj\Debug\Lambda.csprojResolveAssemblyReference.cache

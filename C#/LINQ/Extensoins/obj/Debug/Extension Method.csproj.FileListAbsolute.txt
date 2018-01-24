@@ -1,0 +1,6 @@
+C:\Users\Vitya\AppData\Local\Temporary Projects\Extension Method\bin\Debug\Extension Method.exe.config
+C:\Users\Vitya\AppData\Local\Temporary Projects\Extension Method\bin\Debug\Extension Method.exe
+C:\Users\Vitya\AppData\Local\Temporary Projects\Extension Method\bin\Debug\Extension Method.pdb
+C:\Users\Vitya\AppData\Local\Temporary Projects\Extension Method\obj\Debug\Extension Method.csprojResolveAssemblyReference.cache
+C:\Users\Vitya\AppData\Local\Temporary Projects\Extension Method\obj\Debug\Extension Method.exe
+C:\Users\Vitya\AppData\Local\Temporary Projects\Extension Method\obj\Debug\Extension Method.pdb

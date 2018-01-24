@@ -1,0 +1,7 @@
+C:\Users\Vitya\AppData\Local\Temporary Projects\LINQ\bin\Debug\LINQ.exe.config
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\LINQ\bin\Debug\LINQ.exe.config
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\LINQ\bin\Debug\LINQ.exe
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\LINQ\bin\Debug\LINQ.pdb
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\LINQ\obj\Debug\LINQ.csprojResolveAssemblyReference.cache
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\LINQ\obj\Debug\LINQ.exe
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\LINQ\obj\Debug\LINQ.pdb
