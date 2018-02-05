@@ -1,0 +1,24 @@
+C:\Users\Vitya\AppData\Local\Temporary Projects\Localization\bin\Debug\Localization.exe.config
+C:\Users\Vitya\AppData\Local\Temporary Projects\Localization\bin\Debug\Localization.exe
+C:\Users\Vitya\AppData\Local\Temporary Projects\Localization\bin\Debug\Localization.pdb
+C:\Users\Vitya\AppData\Local\Temporary Projects\Localization\obj\Debug\Localization.csprojResolveAssemblyReference.cache
+C:\Users\Vitya\AppData\Local\Temporary Projects\Localization\obj\Debug\Localization.Form1.resources
+C:\Users\Vitya\AppData\Local\Temporary Projects\Localization\obj\Debug\Localization.Properties.Resources.resources
+C:\Users\Vitya\AppData\Local\Temporary Projects\Localization\obj\Debug\Localization.csproj.GenerateResource.Cache
+C:\Users\Vitya\AppData\Local\Temporary Projects\Localization\obj\Debug\Localization.exe
+C:\Users\Vitya\AppData\Local\Temporary Projects\Localization\obj\Debug\Localization.pdb
+C:\Users\Vitya\AppData\Local\Temporary Projects\Localization\bin\Debug\hy-AM\Localization.resources.dll
+C:\Users\Vitya\AppData\Local\Temporary Projects\Localization\obj\Debug\Localization.Properties.Resource.hy-AM.resources
+C:\Users\Vitya\AppData\Local\Temporary Projects\Localization\obj\Debug\hy-AM\Localization.resources.dll
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\Localization\bin\Debug\Localization.exe.config
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\Localization\obj\Debug\Localization.exe
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\Localization\obj\Debug\Localization.pdb
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\Localization\bin\Debug\Localization.exe
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\Localization\bin\Debug\Localization.pdb
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\Localization\bin\Debug\hy-AM\Localization.resources.dll
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\Localization\obj\Debug\Localization.csprojResolveAssemblyReference.cache
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\Localization\obj\Debug\Localization.Form1.resources
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\Localization\obj\Debug\Localization.Properties.Resources.resources
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\Localization\obj\Debug\Localization.csproj.GenerateResource.Cache
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\Localization\obj\Debug\hy-AM\Localization.resources.dll
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\Localization\obj\Debug\Localization.Properties.Resources.hy-AM.resources

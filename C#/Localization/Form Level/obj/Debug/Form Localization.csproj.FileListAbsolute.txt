@@ -1,0 +1,21 @@
+C:\Users\Vitya\AppData\Local\Temporary Projects\Form Localization\bin\Debug\Form Localization.exe.config
+C:\Users\Vitya\AppData\Local\Temporary Projects\Form Localization\bin\Debug\Form Localization.exe
+C:\Users\Vitya\AppData\Local\Temporary Projects\Form Localization\bin\Debug\Form Localization.pdb
+C:\Users\Vitya\AppData\Local\Temporary Projects\Form Localization\obj\Debug\Form Localization.csprojResolveAssemblyReference.cache
+C:\Users\Vitya\AppData\Local\Temporary Projects\Form Localization\obj\Debug\Form_Localization.Form1.resources
+C:\Users\Vitya\AppData\Local\Temporary Projects\Form Localization\obj\Debug\Form_Localization.Properties.Resources.resources
+C:\Users\Vitya\AppData\Local\Temporary Projects\Form Localization\obj\Debug\Form Localization.csproj.GenerateResource.Cache
+C:\Users\Vitya\AppData\Local\Temporary Projects\Form Localization\obj\Debug\Form Localization.exe
+C:\Users\Vitya\AppData\Local\Temporary Projects\Form Localization\obj\Debug\Form Localization.pdb
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\Form Localization\bin\Debug\Form Localization.exe.config
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\Form Localization\obj\Debug\Form Localization.exe
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\Form Localization\obj\Debug\Form Localization.pdb
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\Form Localization\bin\Debug\Form Localization.exe
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\Form Localization\bin\Debug\Form Localization.pdb
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\Form Localization\bin\Debug\hy\Form Localization.resources.dll
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\Form Localization\obj\Debug\Form Localization.csprojResolveAssemblyReference.cache
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\Form Localization\obj\Debug\Form_Localization.Form1.resources
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\Form Localization\obj\Debug\Form_Localization.Properties.Resources.resources
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\Form Localization\obj\Debug\Form_Localization.Form1.hy.resources
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\Form Localization\obj\Debug\Form Localization.csproj.GenerateResource.Cache
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\Form Localization\obj\Debug\hy\Form Localization.resources.dll
