@@ -1,0 +1,32 @@
+Create Cert
+-- root
+step1: makecert -n "CN=AndroidCert" -a sha512 -r -sv Android.pvk Android.cer
+-- personal
+step2: makecert -sk AndroidCert -iv Android.pvk -n "CN=AndroidCert" -ic Android.cer Personal.cer -sr localmachine -ss My
+--for clients
+step3:	pvk2pfx.exe -pvk Android.pvk -spc Android.cer
+
+step4: Import Personal cert to Computer Personal Folder
+       Import Android cert to Computer Trusted Publisher Folder
+step5:run cmd
+	-- key from personal cert serial number
+	certutil -repairstore my "f2 90 0a 03 e6 7c 9c 89 46 a2 24 ce 05 c9 b9 76"
+
+
+-- Show ports
+netsh http show sslcert
+
+netsh http show urlacl
+
+-- Add port
+netsh http add urlacl url=https://+:8888/ user=\Everyone
+
+--Change certhash
+--appid can be random GUID
+-- certhash Personal cert thump serial
+netsh http add sslcert ipport=0.0.0.0:8888 certhash=63d94187474359a681034e814dea0cd5101a7796 appid={C2715BFA-144A-44D9-A3E3-6CD64C7B560D}
+
+-- Remove port
+Netsh http delete urlacl url=https://+:8888/
+
+--netsh http delete sslcert ipport=0.0.0.0:8888

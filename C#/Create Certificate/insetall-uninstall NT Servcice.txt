@@ -1,0 +1,2 @@
+"InstallUtil.exe" "AndroidServ.exe"
+"InstallUtil.exe" /U "AndroidServ.exe"
