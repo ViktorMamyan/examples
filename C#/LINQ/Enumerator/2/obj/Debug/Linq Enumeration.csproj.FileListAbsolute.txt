@@ -1,0 +1,12 @@
+C:\Users\Vitya\AppData\Local\Temporary Projects\Linq Enumeration\bin\Debug\Linq Enumeration.exe.config
+C:\Users\Vitya\AppData\Local\Temporary Projects\Linq Enumeration\obj\Debug\Linq Enumeration.csprojResolveAssemblyReference.cache
+C:\Users\Vitya\AppData\Local\Temporary Projects\Linq Enumeration\bin\Debug\Linq Enumeration.exe
+C:\Users\Vitya\AppData\Local\Temporary Projects\Linq Enumeration\bin\Debug\Linq Enumeration.pdb
+C:\Users\Vitya\AppData\Local\Temporary Projects\Linq Enumeration\obj\Debug\Linq Enumeration.exe
+C:\Users\Vitya\AppData\Local\Temporary Projects\Linq Enumeration\obj\Debug\Linq Enumeration.pdb
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\Linq Enumeration\bin\Debug\Linq Enumeration.exe.config
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\Linq Enumeration\obj\Debug\Linq Enumeration.exe
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\Linq Enumeration\obj\Debug\Linq Enumeration.pdb
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\Linq Enumeration\bin\Debug\Linq Enumeration.exe
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\Linq Enumeration\bin\Debug\Linq Enumeration.pdb
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\Linq Enumeration\obj\Debug\Linq Enumeration.csprojResolveAssemblyReference.cache
