@@ -1,0 +1,7 @@
+C:\Users\Vitya\AppData\Local\Temporary Projects\Linq Where Select\bin\Debug\Linq Where Select.exe.config
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\Linq Where Select\bin\Debug\Linq Where Select.exe.config
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\Linq Where Select\bin\Debug\Linq Where Select.exe
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\Linq Where Select\bin\Debug\Linq Where Select.pdb
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\Linq Where Select\obj\Debug\Linq Where Select.csprojResolveAssemblyReference.cache
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\Linq Where Select\obj\Debug\Linq Where Select.exe
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\Linq Where Select\obj\Debug\Linq Where Select.pdb

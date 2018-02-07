@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq Where Select", "Linq Where Select.csproj", "{2582E873-D4BA-433D-AEC2-D298EBFB4681}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2582E873-D4BA-433D-AEC2-D298EBFB4681}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2582E873-D4BA-433D-AEC2-D298EBFB4681}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2582E873-D4BA-433D-AEC2-D298EBFB4681}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2582E873-D4BA-433D-AEC2-D298EBFB4681}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
