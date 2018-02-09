@@ -1,0 +1,11 @@
+C:\Users\Vitya\Documents\GitHub\examples\examples\C#\Entity Framework\ModelFirst\bin\Debug\ModelFirst.exe.config
+C:\Users\Vitya\Documents\GitHub\examples\examples\C#\Entity Framework\ModelFirst\bin\Debug\ModelFirst.exe
+C:\Users\Vitya\Documents\GitHub\examples\examples\C#\Entity Framework\ModelFirst\bin\Debug\ModelFirst.pdb
+C:\Users\Vitya\Documents\GitHub\examples\examples\C#\Entity Framework\ModelFirst\bin\Debug\EntityFramework.dll
+C:\Users\Vitya\Documents\GitHub\examples\examples\C#\Entity Framework\ModelFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vitya\Documents\GitHub\examples\examples\C#\Entity Framework\ModelFirst\bin\Debug\EntityFramework.xml
+C:\Users\Vitya\Documents\GitHub\examples\examples\C#\Entity Framework\ModelFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vitya\Documents\GitHub\examples\examples\C#\Entity Framework\ModelFirst\obj\Debug\ModelFirst.csprojResolveAssemblyReference.cache
+C:\Users\Vitya\Documents\GitHub\examples\examples\C#\Entity Framework\ModelFirst\obj\Debug\ModelFirst.csproj.CoreCompileInputs.cache
+C:\Users\Vitya\Documents\GitHub\examples\examples\C#\Entity Framework\ModelFirst\obj\Debug\ModelFirst.exe
+C:\Users\Vitya\Documents\GitHub\examples\examples\C#\Entity Framework\ModelFirst\obj\Debug\ModelFirst.pdb

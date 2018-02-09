@@ -1,0 +1,11 @@
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\CodeFirst\bin\Debug\CodeFirst.exe.config
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\CodeFirst\bin\Debug\CodeFirst.exe
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\CodeFirst\bin\Debug\CodeFirst.pdb
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\CodeFirst\bin\Debug\EntityFramework.dll
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\CodeFirst\bin\Debug\EntityFramework.xml
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\CodeFirst\obj\Debug\CodeFirst.csprojResolveAssemblyReference.cache
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\CodeFirst\obj\Debug\CodeFirst.csproj.CoreCompileInputs.cache
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\CodeFirst\obj\Debug\CodeFirst.exe
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\CodeFirst\obj\Debug\CodeFirst.pdb

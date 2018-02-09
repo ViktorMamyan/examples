@@ -1,0 +1,11 @@
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\DBFirst\bin\Debug\DBFirst.exe.config
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\DBFirst\bin\Debug\DBFirst.exe
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\DBFirst\bin\Debug\DBFirst.pdb
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\DBFirst\bin\Debug\EntityFramework.dll
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\DBFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\DBFirst\bin\Debug\EntityFramework.xml
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\DBFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\DBFirst\obj\Debug\DBFirst.csprojResolveAssemblyReference.cache
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\DBFirst\obj\Debug\DBFirst.csproj.CoreCompileInputs.cache
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\DBFirst\obj\Debug\DBFirst.exe
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\DBFirst\obj\Debug\DBFirst.pdb
