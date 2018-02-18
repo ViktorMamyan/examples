@@ -1,0 +1,26 @@
+CREATE DATABASE TDE_DB;
+GO
+
+USE TDE_DB;
+GO
+
+CREATE TABLE TestTable
+(
+	ID INT NOT NULL IDENTITY(1,1) PRIMARY KEY
+	,FirstName NVARCHAR(50) NOT NULL
+	,LastName  NVARCHAR(50) NOT NULL
+);
+GO
+
+DECLARE @I INT = 0;
+
+WHILE @I < 5000
+	BEGIN
+		INSERT INTO TestTable(FirstName,LastName)
+		VALUES(N'FName',N'LName');
+
+		SET @I +=1;
+	END;
+GO
+
+SELECT * FROM TestTable;
