@@ -1,0 +1,9 @@
+C:\Users\Vitya\Documents\Visual Studio 2017\Projects\State\bin\State.dll.config
+C:\Users\Vitya\Documents\Visual Studio 2017\Projects\State\bin\State.dll
+C:\Users\Vitya\Documents\Visual Studio 2017\Projects\State\bin\State.pdb
+C:\Users\Vitya\Documents\Visual Studio 2017\Projects\State\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Vitya\Documents\Visual Studio 2017\Projects\State\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Vitya\Documents\Visual Studio 2017\Projects\State\obj\Debug\State.csprojResolveAssemblyReference.cache
+C:\Users\Vitya\Documents\Visual Studio 2017\Projects\State\obj\Debug\State.csproj.CoreCompileInputs.cache
+C:\Users\Vitya\Documents\Visual Studio 2017\Projects\State\obj\Debug\State.dll
+C:\Users\Vitya\Documents\Visual Studio 2017\Projects\State\obj\Debug\State.pdb

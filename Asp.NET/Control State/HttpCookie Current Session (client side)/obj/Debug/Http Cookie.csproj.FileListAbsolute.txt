@@ -1,0 +1,9 @@
+C:\Users\Vitya\Documents\Visual Studio 2017\Projects\Http Cookie\bin\Http Cookie.dll.config
+C:\Users\Vitya\Documents\Visual Studio 2017\Projects\Http Cookie\bin\Http Cookie.dll
+C:\Users\Vitya\Documents\Visual Studio 2017\Projects\Http Cookie\bin\Http Cookie.pdb
+C:\Users\Vitya\Documents\Visual Studio 2017\Projects\Http Cookie\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Vitya\Documents\Visual Studio 2017\Projects\Http Cookie\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Vitya\Documents\Visual Studio 2017\Projects\Http Cookie\obj\Debug\Http Cookie.csprojResolveAssemblyReference.cache
+C:\Users\Vitya\Documents\Visual Studio 2017\Projects\Http Cookie\obj\Debug\Http Cookie.csproj.CoreCompileInputs.cache
+C:\Users\Vitya\Documents\Visual Studio 2017\Projects\Http Cookie\obj\Debug\Http Cookie.dll
+C:\Users\Vitya\Documents\Visual Studio 2017\Projects\Http Cookie\obj\Debug\Http Cookie.pdb

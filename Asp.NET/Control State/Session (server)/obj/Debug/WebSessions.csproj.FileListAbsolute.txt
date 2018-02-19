@@ -1,0 +1,9 @@
+C:\Users\Vitya\Documents\Visual Studio 2017\Projects\WebSessions\bin\WebSessions.dll.config
+C:\Users\Vitya\Documents\Visual Studio 2017\Projects\WebSessions\bin\WebSessions.dll
+C:\Users\Vitya\Documents\Visual Studio 2017\Projects\WebSessions\bin\WebSessions.pdb
+C:\Users\Vitya\Documents\Visual Studio 2017\Projects\WebSessions\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Vitya\Documents\Visual Studio 2017\Projects\WebSessions\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Vitya\Documents\Visual Studio 2017\Projects\WebSessions\obj\Debug\WebSessions.csprojResolveAssemblyReference.cache
+C:\Users\Vitya\Documents\Visual Studio 2017\Projects\WebSessions\obj\Debug\WebSessions.csproj.CoreCompileInputs.cache
+C:\Users\Vitya\Documents\Visual Studio 2017\Projects\WebSessions\obj\Debug\WebSessions.dll
+C:\Users\Vitya\Documents\Visual Studio 2017\Projects\WebSessions\obj\Debug\WebSessions.pdb

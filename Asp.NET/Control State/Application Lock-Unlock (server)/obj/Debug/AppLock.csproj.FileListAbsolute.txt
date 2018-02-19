@@ -1,0 +1,9 @@
+C:\Users\Vitya\Documents\Visual Studio 2017\Projects\AppLock\bin\AppLock.dll.config
+C:\Users\Vitya\Documents\Visual Studio 2017\Projects\AppLock\bin\AppLock.dll
+C:\Users\Vitya\Documents\Visual Studio 2017\Projects\AppLock\bin\AppLock.pdb
+C:\Users\Vitya\Documents\Visual Studio 2017\Projects\AppLock\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Vitya\Documents\Visual Studio 2017\Projects\AppLock\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Vitya\Documents\Visual Studio 2017\Projects\AppLock\obj\Debug\AppLock.csprojResolveAssemblyReference.cache
+C:\Users\Vitya\Documents\Visual Studio 2017\Projects\AppLock\obj\Debug\AppLock.csproj.CoreCompileInputs.cache
+C:\Users\Vitya\Documents\Visual Studio 2017\Projects\AppLock\obj\Debug\AppLock.dll
+C:\Users\Vitya\Documents\Visual Studio 2017\Projects\AppLock\obj\Debug\AppLock.pdb
