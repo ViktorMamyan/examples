@@ -1,0 +1,10 @@
+<%@ Page Language="C#"
+        AutoEventWireup="true"
+        CodeBehind="Exm.aspx.cs"
+        MaintainScrollPositionOnPostback="true"
+        Trace="true"
+        Debug="true"
+        RequestEncoding="utf-8"
+        ResponseEncoding="utf-8" 
+        ErrorPage="~/Error.aspx"
+        Inherits="examples.Exm" TraceMode="SortByCategory" %>

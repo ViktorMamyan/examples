@@ -1,0 +1,4 @@
+--active part of log
+SELECT * FROM sys.fn_dblog(NULL,NULL);
+
+DBCC LOG('DBNAME',-1) WITH TABLERESULTS, NO_INFOMSGS;
