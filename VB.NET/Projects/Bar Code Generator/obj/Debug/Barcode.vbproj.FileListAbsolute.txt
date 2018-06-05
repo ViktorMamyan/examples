@@ -1,0 +1,18 @@
+C:\Users\Vitya\Desktop\Barcode\bin\Debug\Barcode.exe
+C:\Users\Vitya\Desktop\Barcode\bin\Debug\Barcode.pdb
+C:\Users\Vitya\Desktop\Barcode\bin\Debug\Barcode.xml
+C:\Users\Vitya\Desktop\Barcode\obj\Debug\WindowsApplication2.Form1.resources
+C:\Users\Vitya\Desktop\Barcode\obj\Debug\WindowsApplication2.Resources.resources
+C:\Users\Vitya\Desktop\Barcode\obj\Debug\Barcode.vbproj.GenerateResource.Cache
+C:\Users\Vitya\Desktop\Barcode\obj\Debug\Barcode.exe
+C:\Users\Vitya\Desktop\Barcode\obj\Debug\Barcode.xml
+C:\Users\Vitya\Desktop\Barcode\obj\Debug\Barcode.pdb
+C:\Users\Vitya\Desktop\Code\App Code\Code\QR Code\obj\Debug\Barcode.exe
+C:\Users\Vitya\Desktop\Code\App Code\Code\QR Code\obj\Debug\Barcode.xml
+C:\Users\Vitya\Desktop\Code\App Code\Code\QR Code\obj\Debug\Barcode.pdb
+C:\Users\Vitya\Desktop\Code\App Code\Code\QR Code\bin\Debug\Barcode.exe
+C:\Users\Vitya\Desktop\Code\App Code\Code\QR Code\bin\Debug\Barcode.pdb
+C:\Users\Vitya\Desktop\Code\App Code\Code\QR Code\bin\Debug\Barcode.xml
+C:\Users\Vitya\Desktop\Code\App Code\Code\QR Code\obj\Debug\WindowsApplication2.Form1.resources
+C:\Users\Vitya\Desktop\Code\App Code\Code\QR Code\obj\Debug\WindowsApplication2.Resources.resources
+C:\Users\Vitya\Desktop\Code\App Code\Code\QR Code\obj\Debug\Barcode.vbproj.GenerateResource.Cache

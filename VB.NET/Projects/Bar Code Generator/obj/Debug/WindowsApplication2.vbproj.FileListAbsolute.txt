@@ -1,0 +1,9 @@
+C:\Users\Vitya\AppData\Local\Temporary Projects\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Users\Vitya\AppData\Local\Temporary Projects\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Users\Vitya\AppData\Local\Temporary Projects\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+C:\Users\Vitya\AppData\Local\Temporary Projects\WindowsApplication2\obj\Debug\WindowsApplication2.Form1.resources
+C:\Users\Vitya\AppData\Local\Temporary Projects\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+C:\Users\Vitya\AppData\Local\Temporary Projects\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+C:\Users\Vitya\AppData\Local\Temporary Projects\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+C:\Users\Vitya\AppData\Local\Temporary Projects\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+C:\Users\Vitya\AppData\Local\Temporary Projects\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
