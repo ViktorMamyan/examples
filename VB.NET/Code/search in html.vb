@@ -1,3 +1,6 @@
+'https://www.nuget.org/packages/HtmlAgilityPack/
+'Install-Package HtmlAgilityPack -Version 1.8.6 
+
 Dim req As WebRequest = WebRequest.Create("https://www.crowdsurge.com/store/index.php?storeid=1056&menu=detail&eventid=41815")
 Dim doc As New HtmlDocument()
 Using res As WebResponse = req.GetResponse()
