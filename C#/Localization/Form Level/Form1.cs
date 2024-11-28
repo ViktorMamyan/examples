@@ -28,7 +28,6 @@ namespace Form_Localization
 
             CultureInfo.DefaultThreadCurrentCulture = newCulture;
             CultureInfo.DefaultThreadCurrentUICulture = newCulture;
-
         }
 
         public Form1()

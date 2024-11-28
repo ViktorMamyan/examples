@@ -22,3 +22,16 @@ C:\Users\Vitya\Documents\Visual Studio 2012\Projects\Localization\obj\Debug\Loca
 C:\Users\Vitya\Documents\Visual Studio 2012\Projects\Localization\obj\Debug\Localization.csproj.GenerateResource.Cache
 C:\Users\Vitya\Documents\Visual Studio 2012\Projects\Localization\obj\Debug\hy-AM\Localization.resources.dll
 C:\Users\Vitya\Documents\Visual Studio 2012\Projects\Localization\obj\Debug\Localization.Properties.Resources.hy-AM.resources
+C:\Users\Vitya\Documents\GitHub\examples\C#\Localization\Project Level\bin\Debug\Localization.exe.config
+C:\Users\Vitya\Documents\GitHub\examples\C#\Localization\Project Level\bin\Debug\Localization.exe
+C:\Users\Vitya\Documents\GitHub\examples\C#\Localization\Project Level\bin\Debug\Localization.pdb
+C:\Users\Vitya\Documents\GitHub\examples\C#\Localization\Project Level\bin\Debug\hy-AM\Localization.resources.dll
+C:\Users\Vitya\Documents\GitHub\examples\C#\Localization\Project Level\obj\Debug\Localization.csproj.AssemblyReference.cache
+C:\Users\Vitya\Documents\GitHub\examples\C#\Localization\Project Level\obj\Debug\Localization.Form1.resources
+C:\Users\Vitya\Documents\GitHub\examples\C#\Localization\Project Level\obj\Debug\Localization.Properties.Resources.resources
+C:\Users\Vitya\Documents\GitHub\examples\C#\Localization\Project Level\obj\Debug\Localization.Properties.Resources.hy-AM.resources
+C:\Users\Vitya\Documents\GitHub\examples\C#\Localization\Project Level\obj\Debug\Localization.csproj.GenerateResource.cache
+C:\Users\Vitya\Documents\GitHub\examples\C#\Localization\Project Level\obj\Debug\Localization.csproj.CoreCompileInputs.cache
+C:\Users\Vitya\Documents\GitHub\examples\C#\Localization\Project Level\obj\Debug\hy-AM\Localization.resources.dll
+C:\Users\Vitya\Documents\GitHub\examples\C#\Localization\Project Level\obj\Debug\Localization.exe
+C:\Users\Vitya\Documents\GitHub\examples\C#\Localization\Project Level\obj\Debug\Localization.pdb

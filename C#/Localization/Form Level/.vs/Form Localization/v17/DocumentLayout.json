@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vitya\\Documents\\GitHub\\examples\\C#\\Localization\\Form Level\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DEEDEEDF-11A3-40E7-B443-4CCADC3896F5}|Form Localization.csproj|c:\\users\\vitya\\documents\\github\\examples\\c#\\localization\\form level\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEEDEEDF-11A3-40E7-B443-4CCADC3896F5}|Form Localization.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEEDEEDF-11A3-40E7-B443-4CCADC3896F5}|Form Localization.csproj|c:\\users\\vitya\\documents\\github\\examples\\c#\\localization\\form level\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DEEDEEDF-11A3-40E7-B443-4CCADC3896F5}|Form Localization.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEEDEEDF-11A3-40E7-B443-4CCADC3896F5}|Form Localization.csproj|C:\\Users\\Vitya\\Documents\\GitHub\\examples\\C#\\Localization\\Form Level\\form1.hy.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{DEEDEEDF-11A3-40E7-B443-4CCADC3896F5}|Form Localization.csproj|solutionrelative:form1.hy.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEEDEEDF-11A3-40E7-B443-4CCADC3896F5}|Form Localization.csproj|C:\\Users\\Vitya\\Documents\\GitHub\\examples\\C#\\Localization\\Form Level\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEEDEEDF-11A3-40E7-B443-4CCADC3896F5}|Form Localization.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEEDEEDF-11A3-40E7-B443-4CCADC3896F5}|Form Localization.csproj|C:\\Users\\Vitya\\Documents\\GitHub\\examples\\C#\\Localization\\Form Level\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{DEEDEEDF-11A3-40E7-B443-4CCADC3896F5}|Form Localization.csproj|solutionrelative:form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Vitya\\Documents\\GitHub\\examples\\C#\\Localization\\Form Level\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Vitya\\Documents\\GitHub\\examples\\C#\\Localization\\Form Level\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAYwCQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T11:50:53.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Vitya\\Documents\\GitHub\\examples\\C#\\Localization\\Form Level\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Vitya\\Documents\\GitHub\\examples\\C#\\Localization\\Form Level\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T10:58:40.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\Vitya\\Documents\\GitHub\\examples\\C#\\Localization\\Form Level\\Form1.resx",
+              "RelativeDocumentMoniker": "Form1.resx",
+              "ToolTip": "C:\\Users\\Vitya\\Documents\\GitHub\\examples\\C#\\Localization\\Form Level\\Form1.resx",
+              "RelativeToolTip": "Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-07T10:58:38.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.hy.resx",
+              "DocumentMoniker": "C:\\Users\\Vitya\\Documents\\GitHub\\examples\\C#\\Localization\\Form Level\\Form1.hy.resx",
+              "RelativeDocumentMoniker": "Form1.hy.resx",
+              "ToolTip": "C:\\Users\\Vitya\\Documents\\GitHub\\examples\\C#\\Localization\\Form Level\\Form1.hy.resx",
+              "RelativeToolTip": "Form1.hy.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-07T10:58:37.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Vitya\\Documents\\GitHub\\examples\\C#\\Localization\\Form Level\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Vitya\\Documents\\GitHub\\examples\\C#\\Localization\\Form Level\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T10:58:21.825Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

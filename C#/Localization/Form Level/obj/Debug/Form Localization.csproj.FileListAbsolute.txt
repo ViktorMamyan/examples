@@ -19,3 +19,16 @@ C:\Users\Vitya\Documents\Visual Studio 2012\Projects\Form Localization\obj\Debug
 C:\Users\Vitya\Documents\Visual Studio 2012\Projects\Form Localization\obj\Debug\Form_Localization.Form1.hy.resources
 C:\Users\Vitya\Documents\Visual Studio 2012\Projects\Form Localization\obj\Debug\Form Localization.csproj.GenerateResource.Cache
 C:\Users\Vitya\Documents\Visual Studio 2012\Projects\Form Localization\obj\Debug\hy\Form Localization.resources.dll
+C:\Users\Vitya\Documents\GitHub\examples\C#\Localization\Form Level\bin\Debug\Form Localization.exe.config
+C:\Users\Vitya\Documents\GitHub\examples\C#\Localization\Form Level\bin\Debug\Form Localization.exe
+C:\Users\Vitya\Documents\GitHub\examples\C#\Localization\Form Level\bin\Debug\Form Localization.pdb
+C:\Users\Vitya\Documents\GitHub\examples\C#\Localization\Form Level\bin\Debug\hy\Form Localization.resources.dll
+C:\Users\Vitya\Documents\GitHub\examples\C#\Localization\Form Level\obj\Debug\Form Localization.csproj.AssemblyReference.cache
+C:\Users\Vitya\Documents\GitHub\examples\C#\Localization\Form Level\obj\Debug\Form_Localization.Form1.resources
+C:\Users\Vitya\Documents\GitHub\examples\C#\Localization\Form Level\obj\Debug\Form_Localization.Properties.Resources.resources
+C:\Users\Vitya\Documents\GitHub\examples\C#\Localization\Form Level\obj\Debug\Form_Localization.Form1.hy.resources
+C:\Users\Vitya\Documents\GitHub\examples\C#\Localization\Form Level\obj\Debug\Form Localization.csproj.GenerateResource.cache
+C:\Users\Vitya\Documents\GitHub\examples\C#\Localization\Form Level\obj\Debug\Form Localization.csproj.CoreCompileInputs.cache
+C:\Users\Vitya\Documents\GitHub\examples\C#\Localization\Form Level\obj\Debug\hy\Form Localization.resources.dll
+C:\Users\Vitya\Documents\GitHub\examples\C#\Localization\Form Level\obj\Debug\Form Localization.exe
+C:\Users\Vitya\Documents\GitHub\examples\C#\Localization\Form Level\obj\Debug\Form Localization.pdb
