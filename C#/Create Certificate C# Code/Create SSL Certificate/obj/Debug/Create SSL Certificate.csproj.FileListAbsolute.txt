@@ -5,3 +5,10 @@ C:\Users\Vitya\Documents\Visual Studio 2022\Projects\Create SSL Certificate\obj\
 C:\Users\Vitya\Documents\Visual Studio 2022\Projects\Create SSL Certificate\obj\Debug\Create SSL Certificate.csproj.CoreCompileInputs.cache
 C:\Users\Vitya\Documents\Visual Studio 2022\Projects\Create SSL Certificate\obj\Debug\Create SSL Certificate.exe
 C:\Users\Vitya\Documents\Visual Studio 2022\Projects\Create SSL Certificate\obj\Debug\Create SSL Certificate.pdb
+E:\Projects 2025\MoshyLibrary\Create SSL Certificate\bin\Debug\Create SSL Certificate.exe.config
+E:\Projects 2025\MoshyLibrary\Create SSL Certificate\bin\Debug\Create SSL Certificate.exe
+E:\Projects 2025\MoshyLibrary\Create SSL Certificate\bin\Debug\Create SSL Certificate.pdb
+E:\Projects 2025\MoshyLibrary\Create SSL Certificate\obj\Debug\Create SSL Certificate.csproj.AssemblyReference.cache
+E:\Projects 2025\MoshyLibrary\Create SSL Certificate\obj\Debug\Create SSL Certificate.csproj.CoreCompileInputs.cache
+E:\Projects 2025\MoshyLibrary\Create SSL Certificate\obj\Debug\Create SSL Certificate.exe
+E:\Projects 2025\MoshyLibrary\Create SSL Certificate\obj\Debug\Create SSL Certificate.pdb
